@@ -1,7 +1,3 @@
-Here’s a draft for your **public GitHub portfolio README** that unifies your GitHub repos and portfolio links into a comprehensive showcase:
-
----
-
 # 👋 Hi, I’m Gurubux Gill
 
 **Lead Data Scientist | GenAI Enthusiast | ML/DL Expert**
