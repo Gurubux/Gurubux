@@ -10,7 +10,7 @@
 
 I’m a Lead Data Scientist & AI Engineer with 9+ years of experience delivering end-to-end ML, Deep Learning, and GenAI solutions. My current focus is on LLMs 🤖, RAG 🔎, and AI Agents ⚡, building with OpenAI, LLaMA, Claude, LangChain, Cursor AI, and Lovable AI.
 
-At Doutchpoint, I worked on creating secure full-stack applications with TypeScript + Vue.js and optimized cloud strategies (AWS & Azure) — seamlessly blending Streamlit & Plotly visualizations 📊 for rich analytics experiences.
+I also bring a strong touchpoint on creating secure full-stack applications with TypeScript + Vue.js, backed by optimized cloud strategies (AWS & Azure) — seamlessly blending Streamlit & Plotly visualizations 📊 for rich analytics experiences.
 
 I care deeply about Responsible AI 🌍, data security 🔐, audit traceability 📝, and GDPR compliance ✅, ensuring that the solutions I build are not just powerful but also trustworthy.
 
