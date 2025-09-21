@@ -28,13 +28,9 @@ Interactive Jupyter notebooks for **AI/ML interview preparation**.
 * Covers **feature engineering, embeddings, cyclic encoding, gradient descent**.
 * Includes **explainable ML** with SHAP and real-world case studies.
 
-### 🔹 [TensorFlow Certification](https://github.com/Gurubux/Tensorflow_certification)
+### 🔹 [Datacamp GenAi](https://github.com/Gurubux/datacamp) [Deep Learning](https://github.com/Gurubux/datacamp_dl)
 
-Hands-on notebooks from Coursera’s **TensorFlow in Practice Specialization**.
-
-### 🔹 [LinkedIn-Learn](https://github.com/Gurubux/LinkedIn-Learn)
-
-Collection of applied exercises and notes from LinkedIn Learning courses.
+Collection of applied exercises and notes from Datacamp's Courses in Deep-learning and GenAI.
 
 📌 More projects on [my GitHub](https://github.com/Gurubux).
 
