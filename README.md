@@ -49,7 +49,27 @@ Collection of applied exercises and notes from LinkedIn Learning courses.
 * **Cloud & Deployment**: Vercel, AWS, Azure
 
 ---
+# 🏅 Certifications & Badges
 
+<p align="center">
+  <img src="https://github.com/Gurubux/Gurubux/blob/main/media/Badge_Oracle_eCertificate_OCI_AI_Foundation_OCI25AICFA.jpeg" width="120" />
+  <img src="https://github.com/Gurubux/Gurubux/blob/main/media/IBM_DS.png" width="120" />
+  <img src="https://github.com/Gurubux/Gurubux/blob/main/media/badge3.png" width="120" />
+  <img src="https://github.com/Gurubux/Gurubux/blob/main/media/badge4.png" width="120" />
+  <img src="https://github.com/Gurubux/Gurubux/blob/main/media/badge5.png" width="120" />
+  <img src="https://github.com/Gurubux/Gurubux/blob/main/media/badge6.png" width="120" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Gurubux/Gurubux/blob/main/media/badge7.png" width="120" />
+  <img src="https://github.com/Gurubux/Gurubux/blob/main/media/badge8.png" width="120" />
+  <img src="https://github.com/Gurubux/Gurubux/blob/main/media/badge9.png" width="120" />
+  <img src="https://github.com/Gurubux/Gurubux/blob/main/media/badge10.png" width="120" />
+  <img src="https://github.com/Gurubux/Gurubux/blob/main/media/badge11.png" width="120" />
+  <img src="https://github.com/Gurubux/Gurubux/blob/main/media/badge12.png" width="120" />
+</p>
+
+---
 ## 📊 Portfolio
 
 Explore my full set of projects and case studies here:
