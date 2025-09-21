@@ -2,13 +2,19 @@
 
 **Lead Data Scientist | GenAI Enthusiast | ML/DL Expert**
 
-📍 Brighton, UK | 🌐 [Portfolio](https://www.datascienceportfol.io/gurubuxgill07) | 💼 [LinkedIn](https://www.linkedin.com/in/gurubux-gill) | 💼 [Badges Transcript](https://www.credly.com/users/gurubux-singh-gill/badges#credly)
+📍 Brighton, UK | 🌐 [Portfolio](https://www.datascienceportfol.io/gurubuxgill07) | 💼 [LinkedIn](https://www.linkedin.com/in/gurubux-gill) | 🎖️ [Badges Transcript](https://www.credly.com/users/gurubux-singh-gill/badges#credly)
 
 ---
 
 ## 🚀 About Me
 
-I build end-to-end **Data Science, Machine Learning, and AI projects** with a current focus on **LLMs, RAG systems, and AI Agents**. My expertise spans **Python, Streamlit, Deep Learning, and Cloud AI**. I thrive on transforming ideas into practical applications and sharing my learnings with the community.
+I’m a Lead Data Scientist & AI Engineer with 9+ years of experience delivering end-to-end ML, Deep Learning, and GenAI solutions. My current focus is on LLMs 🤖, RAG 🔎, and AI Agents ⚡, building with OpenAI, LLaMA, Claude, LangChain, Cursor AI, and Lovable AI.
+
+At Doutchpoint, I worked on creating secure full-stack applications with TypeScript + Vue.js and optimized cloud strategies (AWS & Azure) — seamlessly blending Streamlit & Plotly visualizations 📊 for rich analytics experiences.
+
+I care deeply about Responsible AI 🌍, data security 🔐, audit traceability 📝, and GDPR compliance ✅, ensuring that the solutions I build are not just powerful but also trustworthy.
+
+I combine technical depth, business acumen 💼, and clear communication 🗣️, enabling me to turn complex AI systems into high-ROI, secure, and production-ready applications.
 
 ---
 
