@@ -63,8 +63,8 @@ Current focus: <b>LLMs 🤖, RAG 🔎, AI Agents ⚡</b> — building with <b>Op
 </p>
 
 <p>
-Strong <b>touchpoint on secure full-stack engineering</b> with <b>TypeScript + Vue.js</b>, 
-<b>optimized cloud</b> (AWS & Azure), and rich analytics via <b>Streamlit & Plotly 📊</b>.
+Strong <b>touchpoint on DEVOps and MLOPs, full-stack engineering</b> with <b>TypeScript + Vue.js</b>, 
+<b>optimized cloud</b> (AWS & Azure), and rich analytics via <b>Streamlit, Kibana, Grafana, Evidently.ai & Plotly 📊</b>.
 </p>
 
 <p>
