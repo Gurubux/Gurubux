@@ -1,8 +1,35 @@
-# 👋 Hi, I’m Gurubux Gill
+<h2 align="center"># 👋 Hi, I’m Gurubux Gill</h2>
 
-**Lead Data Scientist | GenAI Enthusiast | ML/DL Expert**
+<p align="center"> **Lead Data Scientist | GenAI Enthusiast | ML/DL Expert** </p>
 
-📍 Brighton, UK | 🌐 [Portfolio](https://www.datascienceportfol.io/gurubuxgill07) | 💼 [LinkedIn](https://www.linkedin.com/in/gurubux-gill) | 🎖️ [Badges Transcript](https://www.credly.com/users/gurubux-singh-gill/badges#credly)
+<p align="center">
+  📍 Brighton, UK &nbsp;|&nbsp; 
+  🌐 <a href="https://www.datascienceportfol.io/gurubuxgill07" target="_blank">Portfolio</a> &nbsp;|&nbsp; 
+  💼 <a href="https://www.linkedin.com/in/gurubux-gill" target="_blank">LinkedIn</a> &nbsp;|&nbsp; 
+  🎖️ <a href="https://www.credly.com/users/gurubux-singh-gill/badges#credly" target="_blank">Badges Transcript</a>
+</p>
+
+<!-- Stat Cards -->
+<p align="center">
+  <a href="https://www.datascienceportfol.io/gurubuxgill07" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_Projects-15-4c1?style=for-the-badge" alt="Portfolio Projects: 15">
+  </a>
+  <a href="https://www.linkedin.com/in/gurubux-gill/details/certifications/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn_Certifications-91-2962FF?style=for-the-badge" alt="LinkedIn Certifications: 91">
+  </a>
+  <a href="https://www.credly.com/users/gurubux-singh-gill/badges#credly" target="_blank">
+    <img src="https://img.shields.io/badge/Credly_Badges-21-FF9800?style=for-the-badge" alt="Credly Badges: 21">
+  </a>
+</p>
+
+<!-- Tagline -->
+<p align="center">
+  I build end-to-end <b>Data Science, Machine Learning, and GenAI</b> solutions with a focus on 
+  <b>LLMs, RAG, and AI Agents</b> — bringing together <b>Python</b>, <b>Streamlit</b>, <b>TypeScript + Vue.js</b>, 
+  and <b>cloud (AWS &amp; Azure)</b> to ship secure, production-ready apps. 
+  Responsible AI, audit traceability, and GDPR are first-class citizens. 🔐🌍
+</p>
+
 
 ---
 
@@ -45,11 +72,13 @@ Collection of applied exercises and notes from Datacamp's Courses in Deep-learni
 
 ## 🛠️ Skills
 
-* **Programming & Tools**: Python, Streamlit, SQL, GitHub Actions
-* **ML/DL**: TensorFlow, PyTorch, Scikit-Learn
-* **GenAI/LLMs**: RAG, Agent frameworks, Prompt Engineering, LLM Evaluation
-* **Visualization**: Matplotlib, Seaborn, Plotly
-* **Cloud & Deployment**: Vercel, AWS, Azure
+* **Programming & Tools**: Python, TypeScript, Vue.js, SQL, Git, GitHub Actions
+* **ML/DL**: TensorFlow, PyTorch, Scikit-Learn, XGBoost, Keras
+* **GenAI/LLMs**: OpenAI GPT, Claude, LLaMA, RAG, Agent Frameworks, Prompt Engineering, LLMOps, Evaluation & Guardrails
+* **Visualization & Dashboards**: Streamlit, Plotly 📊, Matplotlib, Seaborn, Kibana, Tableau
+* **MLOps & DevOps**: MLflow, DVC, Docker, CI/CD, Cloud Cost Optimization
+* **Cloud & Deployment**: AWS (SageMaker, Lambda, Textract), Azure AI, Vercel, Databricks
+* **Security & Governance**: Responsible AI 🌍, Audit Traceability 📝, GDPR Compliance ✅, Secure Full-stack Apps 🔐
 
 ---
 ## 🏅 Certifications & Badges
