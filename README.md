@@ -25,7 +25,7 @@ I combine technical depth, business acumen 💼, and clear communication 🗣️
 Exploring **ChatGPT & LLM applications** with **Python & Streamlit**.
 
 * AI Agents, RAG pipelines, and evaluation strategies.
-* Experimenting with **MCP Servers** and prompt design.
+* Experimenting with **MCP Servers** and prompt design.  
 ⭐ **[🎬 Live Demo - 9 Use Cases](https://github.com/Gurubux/guru_gpt?tab=readme-ov-file#-live-demo---9-use-cases)**
 
 ### 🔹 [Interview Prep: ML & AI](https://github.com/Gurubux/interview-prep-ml-ai)
