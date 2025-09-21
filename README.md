@@ -2,7 +2,7 @@
 
 **Lead Data Scientist | GenAI Enthusiast | ML/DL Expert**
 
-📍 Brighton, UK | 🌐 [Portfolio](https://www.datascienceportfol.io/gurubuxgill07) | 💼 [LinkedIn](https://www.linkedin.com/in/gurubux-gill)
+📍 Brighton, UK | 🌐 [Portfolio](https://www.datascienceportfol.io/gurubuxgill07) | 💼 [LinkedIn](https://www.linkedin.com/in/gurubux-gill) | 💼 [Badges Transcript](https://www.credly.com/users/gurubux-singh-gill/badges#credly)
 
 ---
 
@@ -52,7 +52,7 @@ Collection of applied exercises and notes from LinkedIn Learning courses.
 ## 🏅 Certifications & Badges
 
 <p align="center">
-  <img src="https://github.com/Gurubux/Gurubux/blob/main/media/OCI25AICFAV1.png" width="120" height="120" />
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=16913D3FE80A629ED20F3B3AAA1688AE66B6A9CEF5604DF53B11858E8D2E8B4E"> <img src="https://github.com/Gurubux/Gurubux/blob/main/media/OCI25AICFAV1.png" width="120" height="120" /></a>
   <img src="https://github.com/Gurubux/Gurubux/blob/main/media/IBM_DS.png"  width="120" height="120" />
   <img src="https://github.com/Gurubux/Gurubux/blob/main/media/MTA-Introduction-to-Programming-using-Python-2019.png" width="120" height="120" />
   <img src="https://github.com/Gurubux/Gurubux/blob/main/media/azure-ai-fundamentals-600x600.png" width="120" height="120" />
