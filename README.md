@@ -110,7 +110,7 @@ I care deeply about <b>Responsible AI 🌍</b>, <b>data security 🔐</b>, <b>au
       <img src="https://img.shields.io/badge/Tech-Python%20%7C%20CrewAI%20%7C%20AIAgent%20%7C%20Automate-blue" />
     </td>
     <td width="50%" valign="top">
-      <h4>🔹 <a href="https://github.com/Gurubux/datacamp">Datacamp GenAI</a> &nbsp; <a href="https://github.com/Gurubux/datacamp_dl">Deep Learning</a></h4>
+      <h4>🔹 <a href="https://github.com/Gurubux/datacamp">Datacamp GenAI</a> &nbsp; | <a href="https://github.com/Gurubux/datacamp_dl">Deep Learning</a></h4>
       <p>
         Applied exercises and notes across <b>GenAI</b> and <b>Deep Learning</b> tracks.  
         Clean, reproducible notebooks for rapid learning and reference.
