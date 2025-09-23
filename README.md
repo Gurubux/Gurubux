@@ -103,19 +103,19 @@ I care deeply about <b>Responsible AI 🌍</b>, <b>data security 🔐</b>, <b>au
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h4>🔹 <a href="https://github.com/Gurubux/interview-prep-ml-ai/tree/main/15_GenAI_LLMs/notebooks/agentic_ai/multi_agent_financial_analyst">Multi-Agent AI Financial Analyst (CrewAI)</h4>
+      <p>
+        A powerful multi-agent system that performs comprehensive stock analysis and generates detailed financial reports using CrewAI and real-time market data.
+      </p>
+      <img src="https://img.shields.io/badge/Tech-Python%20%7C%20CrewAI%20%7C%20AIAgent%20%7C%20Automate-blue" />
+    </td>
+    <td width="50%" valign="top">
       <h4>🔹 <a href="https://github.com/Gurubux/datacamp">Datacamp GenAI</a> &nbsp; <a href="https://github.com/Gurubux/datacamp_dl">Deep Learning</a></h4>
       <p>
         Applied exercises and notes across <b>GenAI</b> and <b>Deep Learning</b> tracks.  
         Clean, reproducible notebooks for rapid learning and reference.
       </p>
       <img src="https://img.shields.io/badge/Tech-Python%20%7C%20TensorFlow%20%7C%20PyTorch%20%7C%20Notebooks-blue" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔹 More</h4>
-      <p>
-        Explore all projects, experiments, and utilities across <b>Data Science</b>, <b>MLOps</b>, and <b>GenAI</b>.
-      </p>
-      <p><a href="https://github.com/Gurubux">📁 Browse my GitHub →</a></p>
     </td>
   </tr>
 </table>
